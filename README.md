@@ -6,12 +6,10 @@
 > [!NOTE]
 > To install Pygame, you need to have Python installed on your system
 
-**
 Once you have Python installed, you can install Pygame using pip, which is the tool Python uses to install packages. Here's how to do it: 
-**
-<div align='left'>
+
 `pip install pygame`
-</div>
+
 
 ***
 # Use
@@ -22,11 +20,10 @@ Once you have Python installed, you can install Pygame using pip, which is the t
 # Running
 **To run the game, you must first clone the repository on your local machine. Then, navigate to the project directory and run the main game file with Python.**
 
-<div align='left'>
-`git https://github.com/adrian9906/SpaceShipPyGame.git`
-`cd SpaceShipPyGame`
-`python3 main.py`
-</div>
+
+1. `git https://github.com/adrian9906/SpaceShipPyGame.git`
+2. `cd SpaceShipPyGame`
+3. `python3 main.py`
 
 > [!WARNING]
 > Remember that you must have Pygame installed on your system to be able to run the game.
