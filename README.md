@@ -7,9 +7,10 @@
 > To install Pygame, you need to have Python installed on your system
 
 **
-Once you have Python installed, you can install Pygame using pip, which is the tool Python uses to install packages. Here's how to do it: **
+Once you have Python installed, you can install Pygame using pip, which is the tool Python uses to install packages. Here's how to do it: 
+**
 <div align='left'>
-**`pip install pygame`**
+`pip install pygame`
 </div>
 
 ***
