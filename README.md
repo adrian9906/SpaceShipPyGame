@@ -38,4 +38,4 @@ Once you have Python installed, you can install Pygame using pip, which is the t
 
 ***
 # License
-**This project is licensed under the MIT license. See the [LICENSE](https://www.phind.com/LICENSE) file for more details.**
+**This project is licensed under the MIT license.**
