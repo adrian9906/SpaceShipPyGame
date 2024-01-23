@@ -21,7 +21,7 @@ Once you have Python installed, you can install Pygame using pip, which is the t
 **To run the game, you must first clone the repository on your local machine. Then, navigate to the project directory and run the main game file with Python.**
 
 
-1. `git https://github.com/adrian9906/SpaceShipPyGame.git`
+1. `git clone https://github.com/adrian9906/SpaceShipPyGame.git`
 2. `cd SpaceShipPyGame`
 3. `python3 main.py`
 
